@@ -1,6 +1,6 @@
 
 SENDER_EMAIL = "oyekanmiakande@gmail.com"
-SENDER_PASSWORD = "hbglmimhowawcmsd"
+SENDER_PASSWORD = ""
 
 SUBJECT = "INVOICE RECEIPT: @iHub Mart"
 
